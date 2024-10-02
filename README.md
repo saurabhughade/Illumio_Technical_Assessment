@@ -1,5 +1,6 @@
 # Illumio_Technical_Assessment
 Technical Assessment for Illumio
+The answer to the assessment question consists of a singular Java program called FlowLogTags.java. It is a standalone program that does not require any specific environment, dependencies or libraries to compile and execute as long as Java is installed on the machine. This in keeping with the requirements to be very minimal and not utilising any third party code. 
 
 # Assumptions
 1. Only the default format is supported by the program. Custom format is not supported.
