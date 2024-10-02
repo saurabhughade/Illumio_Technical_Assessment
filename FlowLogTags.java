@@ -77,7 +77,7 @@ public class FlowLogTags {
         //Defining filepaths
         String lookupFilePath = "lookup_table.csv";
         String flowLogFilePath = "flow_logs.txt";
-        String outputFilePath = "output2.txt";
+        String outputFilePath = "output.txt";
 
         //Loading logs and lookup table into data structures
         Map<String, String> lookupTable = loadLookupTable(lookupFilePath);
